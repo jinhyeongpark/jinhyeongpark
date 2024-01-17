@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 개발자 박진형입니다 👋
 
 <!--
 **jinhyeongpark/jinhyeongpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
