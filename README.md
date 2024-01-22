@@ -1,7 +1,6 @@
 ### 안녕하세요 개발자 박진형입니다. 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jinhyoung9380/)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhyoung9380)](https://solved.ac/jinhyoung9380/)
 
 <!--
 **jinhyeongpark/jinhyeongpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
