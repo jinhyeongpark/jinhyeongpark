@@ -2,6 +2,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhyoung9380)](https://solved.ac/jinhyoung9380/)
 
+## 👨‍💻 About Me
+> **문제 해결 경험을 문서화하고 공유하는 것을 즐기는 Problem Solver 박진형입니다.** > 참여했던 프로젝트 모두 책임감과 애정을 가지고 기획 단계부터 개발, 운영까지 함께하고 있습니다.
+> 
+> 주로 **Java와 Spring Boot** 기반 서버 개발을 담당하며, **AI Agent**를 통한 구현 및 검증 자동화 환경 구축에 깊은 관심을 가지고 있습니다.
+
 ---
 
 ### 🚀 Tech Stack
@@ -31,6 +36,6 @@
 
 ---
 
-### 📝 Latest Posts & Contact
+### 📝 Dev Blog
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jinhyoung9380/posts)
